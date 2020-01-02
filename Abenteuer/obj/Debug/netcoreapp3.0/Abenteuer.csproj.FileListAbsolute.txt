@@ -1,0 +1,11 @@
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer.deps.json
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer.runtimeconfig.json
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer.runtimeconfig.dev.json
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer.dll
+/Users/adambyrne/Code/Abenteuer/Abenteuer/bin/Debug/netcoreapp3.0/Abenteuer.pdb
+/Users/adambyrne/Code/Abenteuer/Abenteuer/obj/Debug/netcoreapp3.0/Abenteuer.csprojAssemblyReference.cache
+/Users/adambyrne/Code/Abenteuer/Abenteuer/obj/Debug/netcoreapp3.0/Abenteuer.AssemblyInfoInputs.cache
+/Users/adambyrne/Code/Abenteuer/Abenteuer/obj/Debug/netcoreapp3.0/Abenteuer.AssemblyInfo.cs
+/Users/adambyrne/Code/Abenteuer/Abenteuer/obj/Debug/netcoreapp3.0/Abenteuer.dll
+/Users/adambyrne/Code/Abenteuer/Abenteuer/obj/Debug/netcoreapp3.0/Abenteuer.pdb
